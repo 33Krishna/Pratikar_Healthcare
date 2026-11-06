@@ -17,7 +17,7 @@ const ChatBot = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      text: "Hello! Welcome to NANA Clinic. How can I assist you today?",
+      text: "Hello! Welcome to Pratikar Healthcare Clinic. How can I assist you today?",
       sender: 'bot',
       timestamp: new Date()
     }
