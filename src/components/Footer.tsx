@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="flex items-center mb-6">
               <a href="/" className="inline-block">
                 <img
-                  src="/images/sound_spectrum_logo_1.png"
+                  src="/images/Pratikar_Logo.png"
                   alt="Logo"
                   className="w-20 h-20 object-contain"
                 />

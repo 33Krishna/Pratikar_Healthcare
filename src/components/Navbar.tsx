@@ -73,7 +73,7 @@ const Navbar = () => {
             className="flex items-center space-x-2"
           >
             <img
-              src="/images/sound_spectrum_logo.png"
+              src="/images/Pratikar_Logo.png"
               className="w-40 h-20 object-contain"
               alt="logo"
             />
